@@ -1,0 +1,35 @@
+<head>
+</head>
+<body>
+<center style="margin-top:30px;font-size:20">
+
+OUR MENU
+<br><br>
+</center>
+<div style="width:100%">
+<div style="border:2px black solid ;width:28%; float:left;">
+<span style="border:2px black solid;float:right">chicken</span><br>
+lorem ipsum dolor sit amet,
+consectetur adipisicing elit, sed do
+eiusmod tempor incididunt ut labore et
+dolore magna aliqua. Ut enin ad minim 
+veniam, quis nostrud exercitation
+ullamco laboris nisi ut aliquip ex ea<div/>&#160;&#160;&#160;
+<div style="border:2px black solid ;width:28%; float:left;">
+<span style="border:2px black solid;float:right">beef</span><br>
+lorem ipsum dolor sit amet,
+consectetur adipisicing elit, sed do
+eiusmod tempor incididunt ut labore et
+dolore magna aliqua. Ut enin ad minim 
+veniam, quis nostrud exercitation
+ullamco laboris nisi ut aliquip ex ea<div/>&#160;&#160;&#160;
+<div style="border:2px black solid ;width:28%; float:left;">
+<span style="border:2px black solid;float:right">sushi</span><br>
+lorem ipsum dolor sit amet,
+consectetur adipisicing elit, sed do
+eiusmod tempor incididunt ut labore et
+dolore magna aliqua. Ut enin ad minim 
+veniam, quis nostrud exercitation
+ullamco laboris nisi ut aliquip ex ea<div/>&#160;&#160;&#160
+</div>
+</div>
